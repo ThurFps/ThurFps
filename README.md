@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThurFps&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThurFps&langs_count=8)](https://github.com/anuraghazra/github-readme-dracula)
-
-
 <div>
 <h3>
 Tecnologias Que eu uso no Meu Dia a dia ou na maioria dos Projetos.

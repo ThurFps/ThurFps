@@ -1,4 +1,4 @@
-### Olá! Eu me Chamo Tenho 13 anos Sou apaixonado em Programação/Tecnologia  Arthur Putrique 👋  
+### Olá! Eu me Chamo Arthur Putrique Tenho 13 anos, Sou apaixonado em Programação/Tecnologia 👋  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThurFps&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThurFps&langs_count=8)](https://github.com/anuraghazra/github-readme-dracula)
